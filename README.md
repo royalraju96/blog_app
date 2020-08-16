@@ -1,6 +1,10 @@
 # blog_app
 
-A new Flutter project.
+I have created this flutter project keeping in mind to teach the people who want to learn flutter. This is basically a blog app which works purely on firebase. I have created a simple sign In and sign up sceen for the user authenticion purpose. And a home screen where user can see the other people blog. You can download the apk via the link given below
+
+https://drive.google.com/file/d/1Z39kpxADTQ9xijc2NJniX4WV59Rw5yjH/view?usp=sharing
+
+
 
 ## Getting Started
 
